@@ -1,11 +1,5 @@
 # Agentic Energy Cybersecurity Project
 
-readme_text = """
-# Agentic Energy Cybersecurity  
-Autonomous Detection, Mitigation, and Resilience for Smart Energy Systems
-
----
-
 ## Overview
 
 Modern energy infrastructures increasingly depend on interconnected digital technologies such as smart grids, IoT-enabled sensing platforms, distributed energy resources, and AI-driven control systems. While these technologies enhance operational efficiency and grid reliability, they also substantially expand the cyber attack surface of critical energy infrastructures.
