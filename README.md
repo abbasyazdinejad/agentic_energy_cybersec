@@ -152,13 +152,7 @@ Autonomous cyber-resilience for critical infrastructure through:
 
 MIT License
 
----
 
-## Author
-
-Abbas Yazdinejad  
-Agentic AI & Cybersecurity Research
-"""
 
 pypandoc.convert_text(readme_text, 'md', format='md', outputfile='/mnt/data/README.md', extra_args=['--standalone'])
 
