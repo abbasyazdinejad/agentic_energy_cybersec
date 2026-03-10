@@ -1,1 +1,0 @@
-# Agentic Energy Cybersecurity Project
